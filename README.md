@@ -56,3 +56,6 @@ Clean entry/exit logic
 🛠 Built With
 Pine Script v5
 TradingView Strategy Tester
+
+Screenshot
+https://github.com/Ayooluwa-trading-dev/multi-timeframe-supertrend-confluence-strategy/blob/main/multi-timeframe-supertrend-confluence-strategy.png.png
